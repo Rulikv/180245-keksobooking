@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ульяна Ревякина](https://up.htmlacademy.ru/javascript/14/user/180245).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Коновалов](https://htmlacademy.ru/profile/id297399).
 
 ---
 
